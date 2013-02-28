@@ -1,0 +1,5 @@
+LIBRARY	"OpenRGSS2"
+EXPORTS
+	CreateGraphics
+	CreateResource
+	CreateSound
